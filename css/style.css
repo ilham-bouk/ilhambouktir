@@ -340,6 +340,9 @@ nav .logo {
   border-radius: 4px;
   transition: .2s;
 }
+#about article .img iconify-icon {
+  color: black;
+} 
 #about article .img i {
   font-size: 2rem;
 }
@@ -357,6 +360,12 @@ nav .logo {
 }
 .img:hover .figma {
   color: #f24e1e;
+}
+.img:hover .react {
+  color: #61DBFB;
+}
+.img:hover .tailwind {
+  color: #a5f3fc;
 }
 
 
@@ -771,6 +780,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
